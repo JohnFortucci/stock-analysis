@@ -56,7 +56,7 @@ From this we can confirm that the refactored code generated the same output and 
 
 ### Perfomance
 
-One of the objectives of the refactoring process was to improve the overall performance of the original program
+One of the objectives of the          refactoring process was to improve the overall performance of the original program
 
 Original Code--- --          --------------------------------Refactored code
  
