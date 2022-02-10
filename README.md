@@ -56,7 +56,9 @@ From this we can confirm that the refactored code generated the same output and 
 
 ### Perfomance
 
-One of the objectives of the refactoring process was to improve the overall performance of the original program
+One of the objectives of the refactoring process was to improve the overall performance of the original program.
+
+Runtimes are calculated buy capturing the VBA timer value , after the user has selected the respective year , capturing the VBA times value once the code is complete and subtracting the start timer value from the end timer value , this will give the runtime of the code.
 
 The images below show the runtimes of the original code for 2017 (Left Side Image) and 2018 (Right Side Image)
  
