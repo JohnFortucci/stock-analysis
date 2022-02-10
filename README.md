@@ -64,4 +64,4 @@ The images below show the runtimes of the original code for 2017 (Left Side Imag
 
 The images below show the runtimes of the refactored code for 2017 (Left Side Image) and 2018 (Right Side Image)
  
-![2017 2018 Side by Side Image](/Resources/VBA_Challenge_2017.png)           ![2017 2018 Side by Side Image](/Resources/VBA_Challenge_2018.png)
+![2017 2018 Side by Side Image](/Resources/Original_Challenge_2017.png)           ![2017 2018 Side by Side Image](/Resources/Original_Challenge_2018.png)
