@@ -28,6 +28,16 @@ The primary purpose of this refactoring activity is to:-
 
 ## Results
 
+### Overall Functionality 
+
+The overall functionality was to provide a spreedsheet with two active buttons :- 
+
+Button 1 : Clear Worksheet             : When this is selected the cells in the worksheet 'All STocks Analysis' will be cleared
+Button 2 : Run Analysis For All Stocks : When this is selected the the user will be prompted to select year to generate the analysis for and then the resulting programe will                                              output the Ticker , Total Daily Volume , Return
+
+The image below shows the functionality of the original code and the refactored code when Clear Worksheet button is selected.
+![2017 2018 Side by Side Image](/Resources/2017_2018_Side_by_Side.PNG)
+
 ### Compare output results
 
 The images below show side by side comparisons of the results of runs of the original code and the refactored code for 2017 and 2018. The data used for the comparison was identiical for the respective years for both original and refactored runs.
@@ -39,4 +49,6 @@ Based on the above side by side comparison , it can be seen that the :-
 - Color coding in the Return field match for each year
 - Headers and formating are identical 
 
-From this we can confirm that the refactored code generated the same outpu and calculation of the original code.
+From this we can confirm that the refactored code generated the same output and calculation of the original code and therefore the refactored code generates the same output as the original code.
+
+
