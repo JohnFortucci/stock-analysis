@@ -43,7 +43,7 @@ Based on the above image we can confirm that the original code and the refactore
 
 ### Compare output results
 
-The images below show side by side comparisons of the results of runs of the original code and the refactored code for 2017 and 2018. The data used for the comparison was identiical for the respective years for both original and refactored runs.
+The image below show side by side comparisons of the results of runs of the original code and the refactored code for 2017 and 2018. The data used for the comparison was identiical for the respective years for both original and refactored runs.
 
 ![2017 2018 Side by Side Image](/Resources/2017_2018_Side_by_Side.PNG)
 
