@@ -33,3 +33,10 @@ The primary purpose of this refactoring activity is to:-
 The images below show side by side comparisons of the results of runs of the original code and the refactored code for 2017 and 2018. The data used for the comparison was identiical for the respective years for both original and refactored runs.
 
 ![2017 2018 Side by Side Image](/Resources/2017_2018_Side_by_Side.PNG)
+
+Based on the above side by side comparison , it can be seen that the :- 
+- Tickers , Total Daily Volumes and Return values are match for each year. 
+- Color coding in the Return field match for each year
+- Headers and formating are identical 
+
+From this we can confirm that the refactored code generated the same outpu and calculation of the original code.
