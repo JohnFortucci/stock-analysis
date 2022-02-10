@@ -54,4 +54,8 @@ Based on the above side by side comparison , it can be seen that the :-
 
 From this we can confirm that the refactored code generated the same output and calculation of the original code and therefore the refactored code generates the same output as the original code.
 
+### Perfomance
 
+One of the objectives of the refactoring process was to improve the overall performance of the original program
+
+![2017 2018 Side by Side Image](/Resources/VBA_Challenge_2017.png)
