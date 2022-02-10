@@ -81,3 +81,18 @@ Refactored code executed with data for 2018 : 0.1875 Seconds
 This shows an improvement in the runtime for 2018 data of 0.695313 which is an improvement of approximately 79%
 
 Based on the data above there is an approximately 80% improvement on runrimes with the refactored code.
+
+
+## Summary
+
+
+### Refactoring
+
+It is not always possible to write clear , concise and efficient code first time this may be due to but not limited to :
+- Deadline contraints 
+- Prototyping 
+
+Code refactoring is an activity aimed at improving the overall quality of existing code.
+Code refactoring is an activity performed on existing code to improve the overall perfomance of the code , or improve the readabilty by improving the code formating. This improves the overall quality of the code , and make future development easier for yourself of another developer as it is much easier to read and understand we formatted and commented code.
+
+Advantages of refactoring 
