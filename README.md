@@ -56,8 +56,8 @@ From this we can confirm that the refactored code generated the same output and 
 
 ### Perfomance
 
-One of the objectives of the          refactoring process was to improve the overall performance of the original program
+One of the objectives of the refactoring process was to improve the overall performance of the original program
 
-Original Code--- --          --------------------------------Refactored code
+<pre>Original Code--- --          --------------------------------Refactored code</pre>
  
 ![2017 2018 Side by Side Image](/Resources/VBA_Challenge_2017.png)           ![2017 2018 Side by Side Image](/Resources/VBA_Challenge_2017.png)
