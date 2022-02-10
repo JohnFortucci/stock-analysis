@@ -32,8 +32,9 @@ The primary purpose of this refactoring activity is to:-
 
 The overall functionality was to provide a spreedsheet with two active buttons :- 
 
-Button 1 : Clear Worksheet             : When this is selected the cells in the worksheet 'All STocks Analysis' will be cleared
-Button 2 : Run Analysis For All Stocks : When this is selected the the user will be prompted to select year to generate the analysis for and then the resulting programe will                                              output the Ticker , Total Daily Volume , Return
+Button 1 : Clear Worksheet             : When this is selected the cells in the worksheet 'All Stocks Analysis' will be cleared.
+
+Button 2 : Run Analysis For All Stocks : When this is selected the the user will be prompted to select year to generate the analysis for and then the resulting programe will                                              output the Ticker , Total Daily Volume , Return.
 
 The image below shows the functionality of the original code and the refactored code when Clear Worksheet button is selected.
 ![Clear Worksheet Compare Image](/Resources/UI_Comparison.PNG)
