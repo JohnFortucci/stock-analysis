@@ -30,6 +30,6 @@ The primary purpose of this refactoring activity is to:-
 
 ### Compare output results
 
-The images below show side by side comparisons of run of the original code and the refactored code for 2017 and 2018 , both data sets are identical for each run.
+The images below show side by side comparisons of the results of runs of the original code and the refactored code for 2017 and 2018. The data used for the comparison was identiical for the respective year for both original and refactored.
 
 ![2017 2018 Side by Side Image](/Resources/2017_2018_Side_by_Side.PNG)
