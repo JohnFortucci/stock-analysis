@@ -69,11 +69,13 @@ The images below show the runtimes of the refactored code for 2017 (Left Side Im
 Based on the images above the runtimes are :- 
 
 Original code executed with data for 2017   : 0.8632813 Seconds
+
 Refactored code executed with data for 2017 : 0.1601563 Seconds
 
 This shows an improvement in the runtime for 2017 data of 0.703125 which is an improvement of approximately 81%
 
 Original code executed with data for 2018   : 0.882813 Seconds
+
 Refactored code executed with data for 2018 : 0.1875 Seconds
 
 This shows an improvement in the runtime for 2018 data of 0.695313 which is an improvement of approximately 79%
