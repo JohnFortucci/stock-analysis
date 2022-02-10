@@ -84,7 +84,6 @@ This shows an improvement in the runtime for 2018 data of 0.695313 which is an i
 
 Based on the data above there is an approximately 80% improvement on runrimes with the refactored code.
 
-
 ## Summary
 
 
@@ -95,7 +94,6 @@ It is not always possible to write clear , concise and efficient code first time
 - Prototyping due to weak requirements
 
 Code refactoring is an activity aimed at improving the overall quality and design of existing code. While code refactoring seems to be a reasonable activity there are however some disadvantages. The perceived adavantages / disadvantages are described below.
-
 
 #### Advantages of refactoring
 Refactoring is aimed at improving curent code , below we have identified some , but not all advantages :- 
@@ -108,7 +106,6 @@ There are some disadvantages to refactoring , below we have identified some , bu
 - Can be time consuming and may not be visible to users , they may see an improvement on runtime , but it would be invisible for them to see an improvement in code readability.
 - There is the possibility of introducing errors to previously tested and accepted code.
 - Can be percieved as inappropriate use of time , re-inventing the wheel and is detracting from performing new code developments
-
 
 ### Original Code v Refactored code - Advantages and Disadvantages.
 
