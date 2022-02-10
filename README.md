@@ -36,7 +36,7 @@ Button 1 : Clear Worksheet             : When this is selected the cells in the 
 Button 2 : Run Analysis For All Stocks : When this is selected the the user will be prompted to select year to generate the analysis for and then the resulting programe will                                              output the Ticker , Total Daily Volume , Return
 
 The image below shows the functionality of the original code and the refactored code when Clear Worksheet button is selected.
-![2017 2018 Side by Side Image](/Resources/2017_2018_Side_by_Side.PNG)
+![Clear Worksheet Compare Image](/Resources/Clear_Worksheet_Compare.PNG)
 
 ### Compare output results
 
