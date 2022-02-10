@@ -6,7 +6,7 @@ The purpose of this project was to perform a refactoring excercise on some previ
 
 ## Code Functionality
 
-The original code prompts the user to select the year for analysis and process the respective years stock history data and calculates the yearly return of the stocks and output this in a results sheet. Formating the results to show the year return as a visaul cell formatting Green if the yearly return was positive and red if the yearly return was negative , if the return value is zero the cell will not be colored..
+The original code prompts the user to select the year for analysis and process the respective years stock history data and calculates the yearly return of the stocks and output this in a results sheet. Formating the results to show the year return as a visaul cell formatting Green if the yearly return was positive and red if the yearly return was negative , if the return value is zero the cell will not be colored.
 
 ## Refactoring Approach
 
