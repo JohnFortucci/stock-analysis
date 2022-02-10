@@ -37,7 +37,7 @@ Button 1 : Clear Worksheet             : When this is selected the cells in the 
 Button 2 : Run Analysis For All Stocks : When this is selected the the user will be prompted to select year to generate the analysis for and then the resulting programe will                                              output the Ticker , Total Daily Volume , Return.
 
 The image below shows the functionality of the original code and the refactored code when Clear Worksheet button is selected.
-![Clear Worksheet Compare Image](/Resources/UI_Comparison.PNG)
+![Clear Worksheet Compare Image](/resources/UI_Comparison.PNG)
 
 Based on the above image we can confirm that the original code and the refactored code have the same functionality and no issues have been introduced by the refactoring activity.
 
@@ -45,7 +45,7 @@ Based on the above image we can confirm that the original code and the refactore
 
 The image below show side by side comparisons of the results of runs of the original code and the refactored code for 2017 and 2018. The data used for the comparison was identiical for the respective years for both original and refactored runs.
 
-![2017 2018 Side by Side Image](/Resources/2017_2018_Side_by_Side.PNG)
+![2017 2018 Side by Side Image](/resources/2017_2018_Side_by_Side.PNG)
 
 Based on the above side by side comparison , it can be seen that the :- 
 - Tickers , Total Daily Volumes and Return values are match for each year. 
@@ -60,11 +60,11 @@ One of the objectives of the refactoring process was to improve the overall perf
 
 The images below show the runtimes of the original code for 2017 (Left Side Image) and 2018 (Right Side Image)
  
-![2017  2018 Side by Side Image](/Resources/Original_Challenge_2017.png)           ![2017 2018 Side by Side Image](/Resources/Original_Challenge_2018.png)
+![2017  2018 Side by Side Image](/resources/Original_Challenge_2017.png)           ![2017 2018 Side by Side Image](/resources/Original_Challenge_2018.png)
 
 The images below show the runtimes of the refactored code for 2017 (Left Side Image) and 2018 (Right Side Image)
  
-![2017 2018 Side by Side Image](/Resources/VBA_Challenge_2017.png)           ![2017 2018 Side by Side Image](/Resources/VBA_Challenge_2018.png)
+![2017 2018 Side by Side Image](/resources/VBA_Challenge_2017.png)           ![2017 2018 Side by Side Image](/resources/VBA_Challenge_2018.png)
 
 Based on the images above the runtimes are :- 
 
