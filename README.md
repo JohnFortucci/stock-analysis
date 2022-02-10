@@ -90,9 +90,37 @@ Based on the data above there is an approximately 80% improvement on runrimes wi
 
 It is not always possible to write clear , concise and efficient code first time this may be due to but not limited to :
 - Deadline contraints 
-- Prototyping 
+- Prototyping due to weak requirements
 
-Code refactoring is an activity aimed at improving the overall quality of existing code.
-Code refactoring is an activity performed on existing code to improve the overall perfomance of the code , or improve the readabilty by improving the code formating. This improves the overall quality of the code , and make future development easier for yourself of another developer as it is much easier to read and understand we formatted and commented code.
+Code refactoring is an activity aimed at improving the overall quality and design of existing code. While code refactoring seems to be a reasonable activity there are however some disadvantages. The perceived adavantages / disadvantages are described below.
 
-Advantages of refactoring 
+
+#### Adavantages of refactoring
+Refactoring is aimed at improving curent code , below we have identified some , but not all advantages :- 
+- Imporved performance of the code , this can be achieved by removing or consolidating redunant code or loops.
+- Improved commenting and formatting , this can be achieved by correctly formatting indents on loop and conditions etc. Inserting clear and concise comments describing various parts of the code. This can make future debugging or development easier for yourself or other developers.as it is much easier to read and understand we formatted and commented code.
+
+#### Disadavantages of refactoring
+
+There are some disadvantages to refactoring , below we have identified some , but not all disadvantages :- 
+- Can be time consuming and may not be visible to users , they may see an improvement on runtime , but it would be invisible for them to see an improvement in code readability.
+- There is the possibility of introducing errors to previously tested and accepted code.
+- Can be percieved as inappropriate use of time , re-inventing the wheel and is detracting from performing new code developments
+
+
+### Original Code v Refactored code 
+
+Based on the activity we performed by refactoring the Sock Analysis worksheet we can draw the following advantages / disadvantages.
+
+
+#### Adavantages of refactoring
+Refactoring is aimed at improving curent code , below we have identified some , but not all advantages :- 
+- Imporved performance of the code , this can be achieved by removing or consolidating redunant code or loops.
+- Improved commenting and formatting , this can be achieved by correctly formatting indents on loop and conditions etc. Inserting clear and concise comments describing various parts of the code. This can make future debugging or development easier for yourself or other developers.as it is much easier to read and understand we formatted and commented code.
+
+#### Disadavantages of refactoring
+
+There are some disadvantages to refactoring , below we have identified some , but not all disadvantages :- 
+- Can be time consuming and may not be visible to users , they may see an improvement on runtime , but it would be invisible for them to see an improvement in code readability.
+- There is the possibility of introducing errors to previously tested and accepted code.
+- Can be percieved as inappropriate use of time , re-inventing the wheel and is detracting from performing new code developments
